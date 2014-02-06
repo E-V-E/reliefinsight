@@ -1,4 +1,12 @@
 == README
+About this project
+This project is built on the RELIEF INSIGHT platform, with Ruby on Rails.
+Implement cool features (see the last paragraph for ideas), contribute to this repo and help to create access to disaster resilience items for those in need.
+________________________________________
+RELIEFINSIGHT
+
+This application is a two-sided Marketplace for disaster resilience.
+
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
